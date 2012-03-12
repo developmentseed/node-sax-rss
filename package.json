@@ -1,0 +1,14 @@
+{
+  "author": "Development Seed",
+  "name": "sax-rss",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/developmentseed/node-sax-rss.git"
+  },
+  "engines": {
+    "node": ">= 0.2.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
