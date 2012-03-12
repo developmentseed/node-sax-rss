@@ -9,6 +9,8 @@
   "engines": {
     "node": ">= 0.2.6"
   },
-  "dependencies": {},
+  "dependencies": {
+      "sax": "0.3.x"
+  },
   "devDependencies": {}
 }
